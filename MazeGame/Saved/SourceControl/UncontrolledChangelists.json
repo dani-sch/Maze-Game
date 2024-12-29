@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/dani/Documents/Development/GameDev/Maze-Game/MazeGame/Content/Blueprints/WinPopupWidget.uasset",
+				"/Users/dani/Documents/Development/GameDev/Maze-Game/MazeGame/Content/Map_General.umap",
 				"/Users/dani/Documents/Development/GameDev/MazeGame/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"/Users/dani/Documents/Development/GameDev/MazeGame/Content/Map_General.umap",
 				"/Users/dani/Documents/Development/GameDev/MazeGame/Content/Blueprints/BP_FPS_Character.uasset",
